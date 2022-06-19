@@ -65,4 +65,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Event System
 
-Event system made in PHP. CRUD.
+Event system made in PHP. CRUD. New.
